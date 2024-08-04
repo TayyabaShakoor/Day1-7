@@ -54,8 +54,8 @@ a {
     text-decoration: underline;
   }
   .responsive-img img {
-    width: 50%;
-    height: 100;
+    width: 250px;
+    height: 200px;
     display: flex;
     transition: transform 0.5s ease-in-out;
   }
